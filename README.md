@@ -1,4 +1,5 @@
-## TEASolver_CA2024
+## Iced TEA Solution for HTB Cyber Apocalypse 2024
+
 Tiny Encryption Algorithm is the implementation. It's SEA, and we have the key, so in the end it is just a matter of reversing the process. I utilized ChatGPT to refactor a chunk of the code because I was feeling delicate and sickly at the time. It spun up a few errors, and it was also the first time using AI to generate code like this. Upon some further review it looks a bit bloaty (it could be reduced further), but it worked with some troubleshooting.
 
 More details.
